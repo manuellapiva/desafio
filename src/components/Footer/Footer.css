@@ -1,0 +1,18 @@
+.footer {
+  background-color:#6441a5;
+  color: white;
+  margin-top: 60px;
+  padding: 30px;
+}
+
+.footer ul {
+  display: flex;
+  justify-content: center;
+  gap:30px;
+  list-style: none;
+  margin-bottom: 50px;
+}
+
+.footer h5{
+  text-align: center;
+}
