@@ -11,7 +11,7 @@ function Footer (){
           <li>Cookies</li>
           <li>Suporte</li>
         </ul>
-          <h5>®2025 Minha Página Exemplo. Todos os direitos reservados.</h5>
+          <h5>®2025 Minha Página Twitch. Todos os direitos reservados.</h5>
         </div>
     
     </>
