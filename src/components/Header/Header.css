@@ -1,4 +1,3 @@
-
 header {
   background-color: #6441a5;
   color:white;
@@ -7,6 +6,7 @@ header {
   padding: 30px; ;
   justify-content: space-around;
 }
+
 header ul{
   display: flex;
   gap: 50px;
@@ -29,3 +29,19 @@ header img{
     width: 70px;
    
 }
+
+
+button {
+  padding: 5px;
+  border: none;
+  height: 27px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+input{
+  padding:5px;
+  border-top-left-radius: 5px ;
+  border-bottom-left-radius: 5px;
+}
+
